@@ -8,14 +8,17 @@ ZoteroMDNote = {
   defaultBibliographyFormat: "bibliography=http://www.zotero.org/styles/apa",
   template: `# {{PAPER_TITLE}}
 
-{{FULL_CITATION}}
-
 - [Open Zotero item](zotero://select/library/items/{{ZOTERO_ITEM_KEY}})
 {{ZOTERO_PDF_LINK}}
 
-## Highlights
+## Notation / Abbreviations
+
+---
 
 ## Notes
+
+---
+
 `,
 
   init({ id, version, rootURI }) {
