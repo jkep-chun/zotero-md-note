@@ -12,11 +12,9 @@ ZoteroMDNote = {
 {{ZOTERO_PDF_LINK}}
 
 ## Notation / Abbreviations
-
 ---
 
 ## Notes
-
 ---
 
 `,
